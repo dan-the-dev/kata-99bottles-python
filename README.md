@@ -39,7 +39,10 @@ Example
 "No more bottles of beer on the wall, no more bottles of beer.",
 "Go to the store and buy some more, 99 bottles of beer on the wall." `
 
+# Setup
 
-# Tests
+The only requirements on your computer are: 
+- [Make](https://www.gnu.org/software/make/)
+- [Docker](https://www.docker.com/)
 
-Run tests: `make test`
+Then, clone it and simply run tests using the command `make test` from your terminal, in the root folder of the project.
