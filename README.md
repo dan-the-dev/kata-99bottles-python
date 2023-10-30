@@ -44,5 +44,6 @@ Example
 The only requirements on your computer are: 
 - [Make](https://www.gnu.org/software/make/)
 - [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/) 
 
 Then, clone it and simply run tests using the command `make test` from your terminal, in the root folder of the project.
